@@ -1,0 +1,16 @@
+//Bases
+@import 'bases/normalize';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;800&display=swap');
+@import 'bases/variables';
+@import 'bases/mixins';
+@import 'bases/globales';
+@import 'bases/utilidades';
+
+//Layout
+@import 'layout/header';
+@import 'layout/video';
+@import 'layout/info';
+@import 'layout/lineup';
+@import 'layout/galeria';
+@import 'layout/boletos';
+@import 'layout/footer';
